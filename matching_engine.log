@@ -1,0 +1,700 @@
+2025-10-22 20:11:52,594 - main - INFO - Starting GoQuant Matching Engine...
+2025-10-22 20:11:52,596 - src.matching_engine.engine - INFO - Initializing matching engine...
+2025-10-22 20:11:52,597 - src.matching_engine.engine - INFO - Initialized order books for 10 symbols
+2025-10-22 20:11:52,598 - main - INFO - Matching Engine started successfully
+2025-10-22 20:11:58,848 - src.api.order_api - INFO - Order submitted: d8499bb1-087e-4c75-9940-ed25bafdf776 - BTC-USDT OrderSide.SELL 1.0 @ 51000.0
+2025-10-22 20:12:00,882 - src.api.order_api - INFO - Order submitted: b8b0f0a8-d7f3-48a2-ad10-23619c55bcfe - BTC-USDT OrderSide.SELL 2.0 @ 52000.0
+2025-10-22 20:12:02,935 - src.api.order_api - INFO - Order submitted: 180bbef6-a142-4f75-b727-2df248abcaec - BTC-USDT OrderSide.SELL 1.5 @ 53000.0
+2025-10-22 20:12:05,080 - src.api.order_api - INFO - Order submitted: e6936389-d228-4ff7-aad8-51cc5e9ef036 - BTC-USDT OrderSide.BUY 1.0 @ 49000.0
+2025-10-22 20:12:07,117 - src.api.order_api - INFO - Order submitted: e3e785d3-8ae8-4025-83cc-eae8ea52ef28 - BTC-USDT OrderSide.BUY 2.0 @ 48000.0
+2025-10-22 20:12:09,148 - src.api.order_api - INFO - Order submitted: 94077986-6f3e-4230-b93b-4e5f8736a04d - BTC-USDT OrderSide.BUY 1.5 @ 47000.0
+2025-10-22 20:12:15,263 - src.api.order_api - INFO - Order submitted: 5f1c11ab-ec15-43a9-a879-264553088520 - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:12:17,311 - src.api.order_api - INFO - Order submitted: d22902b4-00f6-4eac-85b1-b6a3486e374b - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:12:19,349 - src.api.order_api - INFO - Order submitted: 5d60ea58-4670-4cd7-8954-84e9d47e30f9 - BTC-USDT OrderSide.BUY 1.0 @ 50000.0
+2025-10-22 20:12:21,401 - src.api.order_api - INFO - Order submitted: 600a74bd-dfcd-445e-a9e2-90708866c567 - BTC-USDT OrderSide.BUY 0.5 @ 51000.0
+2025-10-22 20:12:25,483 - src.api.order_api - INFO - Order submitted: 81b4f26a-e664-4002-985a-6e383d284eed - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:12:27,531 - src.api.order_api - INFO - Order cancelled: 81b4f26a-e664-4002-985a-6e383d284eed
+2025-10-22 20:12:30,616 - src.api.order_api - INFO - Order submitted: c3e6c000-5d4d-4472-933d-b8fa6155b272 - BTC-USDT OrderSide.SELL 1.0 @ 54000.0
+2025-10-22 20:12:33,668 - src.api.order_api - INFO - Order submitted: e711e6e0-bdd7-471c-8d88-204e0b52ef66 - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:12:36,716 - src.api.order_api - INFO - Order submitted: a89cc597-4b6b-4403-a35f-2a272b504f84 - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:12:39,764 - src.api.order_api - INFO - Order submitted: 54e77696-ebad-4ff1-ad4c-6470e570a364 - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:12:52,819 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:12:54,877 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:12:56,916 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:12:58,964 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:01,008 - src.api.order_api - INFO - Order submitted: db798550-ed97-4bf2-854f-a626673bfd73 - BTC-USDT OrderSide.BUY 0.885 @ None
+2025-10-22 20:13:03,051 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:05,104 - src.api.order_api - INFO - Order submitted: d430d9be-a745-4d29-b5e9-fc45b6f9d1be - BTC-USDT OrderSide.BUY 1.378 @ None
+2025-10-22 20:13:07,154 - src.api.order_api - INFO - Order submitted: bdae2225-5c9e-4bdf-8439-c59aea48ad58 - BTC-USDT OrderSide.BUY 2.169 @ None
+2025-10-22 20:13:09,201 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:11,253 - src.api.order_api - INFO - Order submitted: 0320cf91-240c-4c6c-b4d7-ae634e5e9bff - BTC-USDT OrderSide.SELL 2.074 @ 45430.62
+2025-10-22 20:13:13,298 - src.api.order_api - INFO - Order submitted: f565371c-a36f-48d8-887f-e49055f2d68f - BTC-USDT OrderSide.SELL 4.462 @ None
+2025-10-22 20:13:15,338 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:17,386 - src.api.order_api - INFO - Order submitted: 5efc1535-bd64-49c6-bbad-dfa91f7a5c13 - BTC-USDT OrderSide.BUY 3.084 @ 45330.91
+2025-10-22 20:13:19,431 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:21,491 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:23,549 - src.api.order_api - INFO - Order submitted: 8739fe39-995b-4af8-8336-f0014de2141b - BTC-USDT OrderSide.SELL 2.616 @ None
+2025-10-22 20:13:25,588 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:27,638 - src.api.order_api - INFO - Order submitted: de368063-aea9-43ab-b9fe-fd4057632ef2 - BTC-USDT OrderSide.SELL 0.685 @ 50735.42
+2025-10-22 20:13:29,688 - src.api.order_api - INFO - Order submitted: 7a3621bd-719a-4820-8681-c98432669de6 - BTC-USDT OrderSide.SELL 4.362 @ 54100.94
+2025-10-22 20:13:31,730 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:33,785 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:35,837 - src.api.order_api - INFO - Order submitted: 4e929d70-1217-4bef-af20-79c950bbd3b1 - BTC-USDT OrderSide.BUY 2.746 @ 52082.05
+2025-10-22 20:13:37,885 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:39,935 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:41,982 - src.api.order_api - INFO - Order submitted: cc30b851-68cc-4f2d-ac2e-64bd05e978d6 - BTC-USDT OrderSide.SELL 2.634 @ None
+2025-10-22 20:13:44,033 - src.api.order_api - INFO - Order submitted: 7c279537-2d05-4d70-bed5-529e6a6ed626 - BTC-USDT OrderSide.SELL 0.264 @ 53689.2
+2025-10-22 20:13:46,088 - src.api.order_api - INFO - Order submitted: 76f0fe01-ddf6-4bea-b169-29f949d60fca - BTC-USDT OrderSide.SELL 0.415 @ None
+2025-10-22 20:13:48,128 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:50,188 - src.api.order_api - INFO - Order submitted: 4dbdbca6-d4ab-4214-9d50-52891a3cff6d - BTC-USDT OrderSide.SELL 1.167 @ None
+2025-10-22 20:13:52,238 - src.api.order_api - INFO - Order submitted: 304608d3-23ea-4924-ad84-af69f79cb7ce - BTC-USDT OrderSide.BUY 0.867 @ 47663.43
+2025-10-22 20:13:54,286 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:13:56,336 - src.api.order_api - INFO - Order submitted: 6bfc17a7-0288-422e-aa05-5833d08ef81b - BTC-USDT OrderSide.BUY 2.691 @ 49609.64
+2025-10-22 20:13:58,384 - src.api.order_api - INFO - Order submitted: 15a32c1e-6fd8-4549-8507-cc8bf8bb27ff - BTC-USDT OrderSide.BUY 1.198 @ 48017.18
+2025-10-22 20:14:00,432 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:02,469 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:04,516 - src.api.order_api - INFO - Order submitted: ea676058-26df-407a-9d55-29651b39f388 - BTC-USDT OrderSide.BUY 4.766 @ 51727.28
+2025-10-22 20:14:06,567 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:08,617 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:10,670 - src.api.order_api - INFO - Order submitted: 504e5dc1-53a0-4195-bd43-20481651506c - BTC-USDT OrderSide.SELL 3.027 @ 54715.33
+2025-10-22 20:14:12,719 - src.api.order_api - INFO - Order submitted: d00bed79-3da0-4919-8fb3-dbcb6343abd9 - BTC-USDT OrderSide.BUY 1.735 @ 53456.23
+2025-10-22 20:14:14,768 - src.api.order_api - INFO - Order submitted: 8994c0b7-30d3-4e5d-9e40-06fba7d281f6 - BTC-USDT OrderSide.SELL 2.648 @ None
+2025-10-22 20:14:16,817 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:18,870 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:20,912 - src.api.order_api - INFO - Order submitted: 1cf8547b-0f94-437f-9fa5-48d2b6d405ed - BTC-USDT OrderSide.SELL 3.474 @ None
+2025-10-22 20:14:22,951 - src.api.order_api - INFO - Order submitted: d7ece65a-d9c1-4b27-bf83-03399eb1b962 - BTC-USDT OrderSide.SELL 1.602 @ None
+2025-10-22 20:14:25,000 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:27,049 - src.api.order_api - INFO - Order submitted: 334d3329-1015-433b-a26b-c671b62b081e - BTC-USDT OrderSide.SELL 1.597 @ 52822.62
+2025-10-22 20:14:29,082 - src.api.order_api - INFO - Order submitted: ca1058f5-1dc9-43f8-b6e2-d28d39957d7e - BTC-USDT OrderSide.SELL 3.28 @ 48213.53
+2025-10-22 20:14:31,132 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:33,186 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:35,233 - src.api.order_api - INFO - Order submitted: 1068eb5c-f47f-41d6-b8fd-bf31d528eb97 - BTC-USDT OrderSide.BUY 2.568 @ 45898.04
+2025-10-22 20:14:37,282 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:39,318 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:41,372 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:43,423 - src.api.order_api - INFO - Order submitted: e2af3b31-7122-4e2c-825c-b8bbdfb1e79a - BTC-USDT OrderSide.BUY 0.23 @ None
+2025-10-22 20:14:45,495 - src.api.order_api - INFO - Order submitted: 597a0302-3698-410c-8ce4-ad5759deec03 - BTC-USDT OrderSide.SELL 1.593 @ None
+2025-10-22 20:14:47,543 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:49,582 - src.api.order_api - INFO - Order submitted: b66e78c5-c2ef-49fc-abd1-cc63b31858a2 - BTC-USDT OrderSide.BUY 4.663 @ 53971.81
+2025-10-22 20:14:51,618 - src.api.order_api - INFO - Order submitted: 006365cd-71e4-4792-b34f-337556252383 - BTC-USDT OrderSide.SELL 0.898 @ None
+2025-10-22 20:14:53,679 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:14:55,729 - src.api.order_api - INFO - Order submitted: e3535d7a-e29e-4c7e-86b0-55557df32567 - BTC-USDT OrderSide.BUY 3.898 @ 50339.72
+2025-10-22 20:14:57,772 - src.api.order_api - INFO - Order submitted: 89a193a2-311a-4b86-8a69-ea5d7d1bf1b6 - BTC-USDT OrderSide.SELL 1.472 @ None
+2025-10-22 20:14:59,807 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:01,859 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:03,913 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:05,933 - src.api.order_api - INFO - Order submitted: 614e5f2f-fd64-422d-957f-60aca0b5ab6a - BTC-USDT OrderSide.BUY 4.485 @ 52521.13
+2025-10-22 20:15:07,965 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:09,984 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:12,008 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:14,028 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:16,055 - src.api.order_api - INFO - Order submitted: 33f7c7b7-32fa-4830-b68e-99c57bf530da - BTC-USDT OrderSide.SELL 2.15 @ None
+2025-10-22 20:15:18,078 - src.api.order_api - INFO - Order submitted: f50ad3dd-9f1a-4eac-b07d-c3667266f5fb - BTC-USDT OrderSide.BUY 0.854 @ None
+2025-10-22 20:15:20,101 - src.api.order_api - INFO - Order submitted: 0e0af3e0-bdf6-4c89-84c1-ece0300bb520 - BTC-USDT OrderSide.BUY 0.249 @ None
+2025-10-22 20:15:22,120 - src.api.order_api - INFO - Order submitted: 25a25b1e-38f9-41ec-b822-99d4123536f9 - BTC-USDT OrderSide.BUY 1.815 @ 54428.78
+2025-10-22 20:15:24,141 - src.api.order_api - INFO - Order submitted: 6a8f234e-397e-44fc-8a44-c4813af9b5d5 - BTC-USDT OrderSide.SELL 1.33 @ 49422.44
+2025-10-22 20:15:26,185 - src.api.order_api - INFO - Order submitted: 626125ab-57d1-47df-b5fa-a38db77888f5 - BTC-USDT OrderSide.SELL 4.882 @ None
+2025-10-22 20:15:28,230 - src.api.order_api - INFO - Order submitted: eef6df88-81e3-489e-8f8d-1c2e46d9a071 - BTC-USDT OrderSide.SELL 4.805 @ None
+2025-10-22 20:15:30,269 - src.api.order_api - INFO - Order submitted: 2fd3b9bd-d18a-4171-b02e-4e5ad0797048 - BTC-USDT OrderSide.SELL 3.978 @ 47969.83
+2025-10-22 20:15:32,312 - src.api.order_api - INFO - Order submitted: 8560fd49-1a5a-40c6-8c1e-6ee8e72c13c7 - BTC-USDT OrderSide.SELL 3.883 @ 48066.66
+2025-10-22 20:15:34,346 - src.api.order_api - INFO - Order submitted: 86b84dc0-1257-422a-8822-2dfcb73d0087 - BTC-USDT OrderSide.BUY 2.719 @ None
+2025-10-22 20:15:36,387 - src.api.order_api - INFO - Order submitted: 76c83fa7-626d-479c-b14a-7498a9c24624 - BTC-USDT OrderSide.SELL 4.549 @ None
+2025-10-22 20:15:38,415 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:40,469 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:42,502 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:44,538 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:46,571 - src.api.order_api - INFO - Order submitted: af6608c0-b4fe-49ef-ba17-ef6c12943738 - BTC-USDT OrderSide.SELL 4.767 @ None
+2025-10-22 20:15:48,598 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:50,636 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:52,666 - src.api.order_api - INFO - Order submitted: c4be3c4b-d2d8-41be-82c9-b799f490eb3a - BTC-USDT OrderSide.BUY 0.806 @ None
+2025-10-22 20:15:54,713 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:56,752 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:15:58,795 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:16:00,830 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:16:02,854 - src.api.order_api - INFO - Order submitted: 746e1238-58d8-4529-8dc3-f810efa468d1 - BTC-USDT OrderSide.SELL 1.289 @ 47475.03
+2025-10-22 20:16:04,915 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:16:06,937 - src.api.order_api - INFO - Order submitted: 38325763-762f-427f-b9fd-297d66719191 - BTC-USDT OrderSide.BUY 2.498 @ None
+2025-10-22 20:16:09,006 - src.api.order_api - INFO - Order submitted: 72478a89-27a2-4c50-a221-3a29a7a44911 - BTC-USDT OrderSide.BUY 2.804 @ None
+2025-10-22 20:16:11,045 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:16:13,081 - src.api.order_api - INFO - Order submitted: 7a6ae385-cdeb-4893-8dde-d82a9cba47b5 - BTC-USDT OrderSide.SELL 0.57 @ 47865.56
+2025-10-22 20:16:15,125 - src.api.order_api - INFO - Order submitted: 9cefaac3-f899-4ddc-b291-411385ae66fd - BTC-USDT OrderSide.SELL 4.927 @ None
+2025-10-22 20:23:22,706 - src.api.order_api - INFO - Order submitted: 217b08fa-c933-47f4-a953-c129e9d75edf - BTC-USDT OrderSide.SELL 1.0 @ 51000.0
+2025-10-22 20:23:24,735 - src.api.order_api - INFO - Order submitted: 4696f91c-b91c-4e4c-989c-bd3d6b4f06b6 - BTC-USDT OrderSide.SELL 2.0 @ 52000.0
+2025-10-22 20:23:26,772 - src.api.order_api - INFO - Order submitted: ef028356-a5eb-4710-8ac2-3259d193e5f5 - BTC-USDT OrderSide.SELL 1.5 @ 53000.0
+2025-10-22 20:23:28,822 - src.api.order_api - INFO - Order submitted: 5eb6c282-b6c7-4eb2-a424-a2da1ec8c3e2 - BTC-USDT OrderSide.BUY 1.0 @ 49000.0
+2025-10-22 20:23:30,854 - src.api.order_api - INFO - Order submitted: caa4ba1d-d6eb-47c7-8ba9-53c4cf8ece25 - BTC-USDT OrderSide.BUY 2.0 @ 48000.0
+2025-10-22 20:23:32,919 - src.api.order_api - INFO - Order submitted: 13c16b82-6b18-4014-9196-18fca18af63b - BTC-USDT OrderSide.BUY 1.5 @ 47000.0
+2025-10-22 20:23:39,047 - src.api.order_api - INFO - Order submitted: a28f5374-1aed-4649-a0e8-6d763829725b - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:23:41,099 - src.api.order_api - INFO - Order submitted: 67438b1a-9ffa-4752-9019-757355f91016 - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:23:43,148 - src.api.order_api - INFO - Order submitted: 0ac616d5-5c7b-49ef-afd9-6dfc4de94a3b - BTC-USDT OrderSide.BUY 1.0 @ 50000.0
+2025-10-22 20:23:45,187 - src.api.order_api - INFO - Order submitted: a01e6662-0487-4851-9a51-d178c669547b - BTC-USDT OrderSide.BUY 0.5 @ 51000.0
+2025-10-22 20:23:49,261 - src.api.order_api - INFO - Order submitted: 9472b817-4c23-4fba-9556-1593e57b4f38 - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:23:51,300 - src.api.order_api - INFO - Order cancelled: 9472b817-4c23-4fba-9556-1593e57b4f38
+2025-10-22 20:23:54,331 - src.api.order_api - INFO - Order submitted: 813d3e99-95fc-4243-a3f9-0551219510d2 - BTC-USDT OrderSide.SELL 1.0 @ 54000.0
+2025-10-22 20:23:57,382 - src.api.order_api - INFO - Order submitted: 87b0368c-5bb2-43a4-adb1-def1a4f128d1 - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:24:00,446 - src.api.order_api - INFO - Order submitted: 71bc607d-9fb6-4913-995e-e19dbc539183 - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:24:03,502 - src.api.order_api - INFO - Order submitted: 7001c84b-2618-4fe0-8b70-eeedfe6250f6 - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:24:03,926 - src.api.order_api - INFO - Order submitted: 49c1ee8d-4d81-4d3b-a0a3-439c71bdebe3 - BTC-USDT OrderSide.SELL 1.0 @ 51000.0
+2025-10-22 20:24:05,989 - src.api.order_api - INFO - Order submitted: 1110e428-cb4f-492f-9d16-ed15bb081f05 - BTC-USDT OrderSide.SELL 2.0 @ 52000.0
+2025-10-22 20:24:08,024 - src.api.order_api - INFO - Order submitted: dcab8ec3-9025-460f-bfa7-79d5e7032dea - BTC-USDT OrderSide.SELL 1.5 @ 53000.0
+2025-10-22 20:24:10,067 - src.api.order_api - INFO - Order submitted: efdb1a33-044e-4ba8-91ed-cfeeb5a87a45 - BTC-USDT OrderSide.BUY 1.0 @ 49000.0
+2025-10-22 20:24:12,117 - src.api.order_api - INFO - Order submitted: 82f39431-e948-49bc-9e96-b294f3129fad - BTC-USDT OrderSide.BUY 2.0 @ 48000.0
+2025-10-22 20:24:14,168 - src.api.order_api - INFO - Order submitted: a5bf1169-f3fe-4179-b564-015ee4b98b64 - BTC-USDT OrderSide.BUY 1.5 @ 47000.0
+2025-10-22 20:24:16,554 - src.api.order_api - INFO - Order submitted: 9523abd9-1b7f-4d94-a912-e7215b558a68 - BTC-USDT OrderSide.SELL 0.974 @ 51865.0
+2025-10-22 20:24:18,600 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:20,314 - src.api.order_api - INFO - Order submitted: d219c94f-f76e-40c5-9376-3639734e3d89 - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:24:20,650 - src.api.order_api - INFO - Order submitted: cdf3722d-e214-4bad-8cdd-745cfa9860f1 - BTC-USDT OrderSide.SELL 1.013 @ None
+2025-10-22 20:24:22,372 - src.api.order_api - INFO - Order submitted: bde4ce6f-1dc7-4d3c-8b76-cebc43173732 - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:24:22,700 - src.api.order_api - INFO - Order submitted: aa95702c-551b-4482-a996-62e89205a5e3 - BTC-USDT OrderSide.SELL 4.814 @ None
+2025-10-22 20:24:24,428 - src.api.order_api - INFO - Order submitted: 4a26ef1d-8768-4e24-954e-c1872c347e24 - BTC-USDT OrderSide.BUY 1.0 @ 50000.0
+2025-10-22 20:24:24,767 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:26,468 - src.api.order_api - INFO - Order submitted: f1c3d175-75f9-44ed-9f0b-150e74a62f36 - BTC-USDT OrderSide.BUY 0.5 @ 51000.0
+2025-10-22 20:24:26,815 - src.api.order_api - INFO - Order submitted: be11f624-94ca-439c-8dd8-8aa2d730dca0 - BTC-USDT OrderSide.SELL 1.513 @ 46991.99
+2025-10-22 20:24:28,862 - src.api.order_api - INFO - Order submitted: 576b1794-4069-4483-a58c-a966e0d4ac6a - BTC-USDT OrderSide.SELL 0.767 @ None
+2025-10-22 20:24:30,547 - src.api.order_api - INFO - Order submitted: c98514a6-c5c9-4097-bda8-5ad38ee0b18f - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:24:30,898 - src.api.order_api - INFO - Order submitted: 57f55156-4816-4e43-958a-9eb656000193 - BTC-USDT OrderSide.SELL 4.972 @ None
+2025-10-22 20:24:32,597 - src.api.order_api - INFO - Order cancelled: c98514a6-c5c9-4097-bda8-5ad38ee0b18f
+2025-10-22 20:24:32,936 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:34,979 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:35,633 - src.api.order_api - INFO - Order submitted: a1f8fd9e-12be-41e2-8d6e-1d28569d9522 - BTC-USDT OrderSide.SELL 1.0 @ 54000.0
+2025-10-22 20:24:37,025 - src.api.order_api - INFO - Order submitted: 191e13c9-186f-460a-a6f6-c8d5f418c50b - BTC-USDT OrderSide.BUY 4.735 @ None
+2025-10-22 20:24:38,671 - src.api.order_api - INFO - Order submitted: a176e418-77f1-4e8d-bbfe-625724309c70 - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:24:39,073 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:41,109 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:41,725 - src.api.order_api - INFO - Order submitted: d30365c8-1af6-48cc-96d0-0c61e6a060ea - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:24:43,165 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:44,781 - src.api.order_api - INFO - Order submitted: e8614bce-ce9f-4204-ab64-5425c0c1334d - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:24:45,207 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:47,244 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:49,289 - src.api.order_api - INFO - Order submitted: ac1a0f8e-a0b2-4f71-a11a-dc049279fc18 - BTC-USDT OrderSide.BUY 1.634 @ 47413.06
+2025-10-22 20:24:51,328 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:53,373 - src.api.order_api - INFO - Order submitted: e7dedddd-9f08-4f73-bd70-6b5119060ff7 - BTC-USDT OrderSide.SELL 1.124 @ None
+2025-10-22 20:24:55,423 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:57,480 - src.api.order_api - INFO - Order submitted: 7e8f90fd-66a9-4f40-a116-22f264f2b0c1 - BTC-USDT OrderSide.SELL 3.363 @ 52049.35
+2025-10-22 20:24:57,862 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:24:59,529 - src.api.order_api - INFO - Order submitted: a242de22-2cf5-4b3b-a459-0bfa074841f6 - BTC-USDT OrderSide.SELL 0.51 @ None
+2025-10-22 20:24:59,911 - src.api.order_api - INFO - Order submitted: 514663cf-7600-4b33-b6de-7dd2d75a4b49 - BTC-USDT OrderSide.SELL 1.191 @ None
+2025-10-22 20:25:01,585 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:01,970 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:03,642 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:04,028 - src.api.order_api - INFO - Order submitted: fb2a5ba7-231b-418e-bf59-1b924c355de6 - BTC-USDT OrderSide.SELL 2.041 @ None
+2025-10-22 20:25:05,700 - src.api.order_api - INFO - Order submitted: ba534a52-a022-4d2c-a80d-6cb9e326d490 - BTC-USDT OrderSide.SELL 1.47 @ None
+2025-10-22 20:25:06,086 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:07,761 - src.api.order_api - INFO - Order submitted: b85f386b-a484-4efc-8b1b-f221512efd92 - BTC-USDT OrderSide.BUY 2.454 @ None
+2025-10-22 20:25:08,139 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:09,813 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:10,197 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:11,877 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:12,253 - src.api.order_api - INFO - Order submitted: e57b14ee-705a-4b99-a757-4cac42037ef2 - BTC-USDT OrderSide.BUY 1.869 @ None
+2025-10-22 20:25:13,930 - src.api.order_api - INFO - Order submitted: 9c426cc8-ff23-4a49-978b-eeae3b38e20a - BTC-USDT OrderSide.BUY 2.893 @ 54888.73
+2025-10-22 20:25:14,313 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:15,985 - src.api.order_api - INFO - Order submitted: 42c5d85e-0212-423c-9128-d98628bca14b - BTC-USDT OrderSide.BUY 1.344 @ None
+2025-10-22 20:25:16,371 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:18,023 - src.api.order_api - INFO - Order submitted: 3c152d7c-e975-4969-b0dd-4090c1c09814 - BTC-USDT OrderSide.BUY 4.281 @ 50353.58
+2025-10-22 20:25:18,461 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:20,083 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:20,514 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:22,133 - src.api.order_api - INFO - Order submitted: 1401e72d-29dd-4bef-8d53-9f046dbb48dd - BTC-USDT OrderSide.SELL 1.541 @ None
+2025-10-22 20:25:22,562 - src.api.order_api - INFO - Order submitted: 26aab360-7bcb-4d42-8272-bb466c0fd368 - BTC-USDT OrderSide.SELL 0.807 @ None
+2025-10-22 20:25:24,186 - src.api.order_api - INFO - Order submitted: 239c250c-8bb1-4006-8f5b-f417a0adf626 - BTC-USDT OrderSide.BUY 2.778 @ 51265.79
+2025-10-22 20:25:24,617 - src.api.order_api - INFO - Order submitted: d4bcee32-7f5a-4b68-9512-0f5ed3f4da09 - BTC-USDT OrderSide.SELL 3.78 @ None
+2025-10-22 20:25:26,244 - src.api.order_api - INFO - Order submitted: 2194432d-79df-4a02-be30-ad845446dae8 - BTC-USDT OrderSide.SELL 4.741 @ 48162.23
+2025-10-22 20:25:26,669 - src.api.order_api - INFO - Order submitted: 5ba92d14-3ea5-40b9-a131-fdf18005af8f - BTC-USDT OrderSide.BUY 1.174 @ 51024.05
+2025-10-22 20:25:28,295 - src.api.order_api - INFO - Order submitted: b6576908-178d-4f25-9bf4-b5a707590367 - BTC-USDT OrderSide.SELL 4.466 @ None
+2025-10-22 20:25:28,728 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:30,357 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:30,787 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:32,413 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:32,845 - src.api.order_api - INFO - Order submitted: 3b720338-0cb4-4693-a4f4-a3da79f3ac94 - BTC-USDT OrderSide.SELL 3.964 @ None
+2025-10-22 20:25:34,465 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:34,897 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:36,523 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:36,951 - src.api.order_api - INFO - Order submitted: 63bd11b5-26e4-4636-bb90-53470b614fd8 - BTC-USDT OrderSide.SELL 0.514 @ 45255.75
+2025-10-22 20:25:38,581 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:39,017 - src.api.order_api - INFO - Order submitted: f953a5c8-cfb0-45f7-b15a-9a706942f2d2 - BTC-USDT OrderSide.SELL 2.619 @ None
+2025-10-22 20:25:40,649 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:41,082 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:42,701 - src.api.order_api - INFO - Order submitted: df0ff404-961e-4c58-b5a3-6e3579a02b48 - BTC-USDT OrderSide.BUY 0.894 @ None
+2025-10-22 20:25:43,134 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:44,761 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:45,189 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:46,817 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:47,242 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:48,867 - src.api.order_api - INFO - Order submitted: f6fe02b9-5a22-464e-9097-fd85930133c5 - BTC-USDT OrderSide.BUY 2.62 @ 45965.23
+2025-10-22 20:25:49,282 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:50,930 - src.api.order_api - INFO - Order submitted: aea98385-02cb-4217-80d7-7fefb46cb91c - BTC-USDT OrderSide.BUY 3.848 @ 53827.25
+2025-10-22 20:25:51,349 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:52,995 - src.api.order_api - INFO - Order submitted: 3f02876b-5c58-4a41-a8d4-87a0112836c7 - BTC-USDT OrderSide.SELL 0.73 @ None
+2025-10-22 20:25:53,410 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:55,055 - src.api.order_api - INFO - Order submitted: 23968fe2-68e5-4376-809a-8d77456b4b57 - BTC-USDT OrderSide.SELL 0.363 @ 50296.69
+2025-10-22 20:25:55,477 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:57,111 - src.api.order_api - INFO - Order submitted: c6441fad-94fe-42a6-9bdd-8e3e1166b0a9 - BTC-USDT OrderSide.BUY 0.888 @ 54938.37
+2025-10-22 20:25:57,536 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:59,153 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:25:59,578 - src.api.order_api - INFO - Order submitted: c86fd83f-0df5-4f67-838d-dc469cbf9093 - BTC-USDT OrderSide.SELL 4.288 @ 51450.0
+2025-10-22 20:26:01,201 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:01,649 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:03,261 - src.api.order_api - INFO - Order submitted: ed623812-c43b-4bf7-bddc-50aec07a4f27 - BTC-USDT OrderSide.BUY 3.782 @ 48245.41
+2025-10-22 20:26:03,689 - src.api.order_api - INFO - Order submitted: 871f8706-15a1-485c-9eb3-4d17543f511f - BTC-USDT OrderSide.SELL 0.669 @ 49594.88
+2025-10-22 20:26:05,296 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:05,732 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:07,320 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:07,784 - src.api.order_api - INFO - Order submitted: 9d6755e2-52c3-44e2-844c-8f586116e166 - BTC-USDT OrderSide.SELL 1.61 @ 47123.73
+2025-10-22 20:26:09,373 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:09,835 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:11,422 - src.api.order_api - INFO - Order submitted: d7cc4d57-39ea-49a0-af65-ee27c994cc2c - BTC-USDT OrderSide.BUY 2.675 @ None
+2025-10-22 20:26:11,890 - src.api.order_api - INFO - Order submitted: aa8bb844-8467-4285-a4d9-24d72ea234f2 - BTC-USDT OrderSide.BUY 0.366 @ 46950.76
+2025-10-22 20:26:13,468 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:13,922 - src.api.order_api - INFO - Order submitted: 6ed88408-a369-4b13-bf7b-70c66579a401 - BTC-USDT OrderSide.SELL 1.005 @ None
+2025-10-22 20:26:15,536 - src.api.order_api - INFO - Order submitted: 9d555bd9-4761-4796-b37e-b9a6d05248cf - BTC-USDT OrderSide.BUY 0.536 @ 45787.43
+2025-10-22 20:26:15,966 - src.api.order_api - INFO - Order submitted: 45508a31-803d-4c5c-b086-26580fcdb6f2 - BTC-USDT OrderSide.SELL 0.882 @ 53667.62
+2025-10-22 20:26:17,584 - src.api.order_api - INFO - Order submitted: c75028ef-326b-4dc9-9354-19a44a9e25f5 - BTC-USDT OrderSide.SELL 2.9 @ None
+2025-10-22 20:26:18,034 - src.api.order_api - INFO - Order submitted: d494ec3d-d2be-471a-9c6b-8f35e5c455dd - BTC-USDT OrderSide.SELL 0.523 @ None
+2025-10-22 20:26:19,633 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:20,083 - src.api.order_api - INFO - Order submitted: 9124f62f-e9cc-4f58-9177-233704c2e223 - BTC-USDT OrderSide.SELL 1.45 @ None
+2025-10-22 20:26:21,699 - src.api.order_api - INFO - Order submitted: 2a1fc012-48ef-4591-9372-e40d3e92ae34 - BTC-USDT OrderSide.BUY 0.278 @ 48068.56
+2025-10-22 20:26:22,128 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:23,734 - src.api.order_api - INFO - Order submitted: 46d76121-9df9-49b1-8a08-6940002be643 - BTC-USDT OrderSide.BUY 1.142 @ 45828.9
+2025-10-22 20:26:24,163 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:25,775 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:26,209 - src.api.order_api - INFO - Order submitted: 6488d4d3-3cc9-4804-a66f-691bf9319729 - BTC-USDT OrderSide.SELL 3.4 @ None
+2025-10-22 20:26:27,831 - src.api.order_api - INFO - Order submitted: 6c0621ed-4e92-4838-a50e-96cacbeecb52 - BTC-USDT OrderSide.BUY 0.78 @ 48279.97
+2025-10-22 20:26:28,237 - src.api.order_api - INFO - Order submitted: 64f2f2bf-9083-4037-9ee2-67245f2abab6 - BTC-USDT OrderSide.SELL 4.003 @ 53542.77
+2025-10-22 20:26:29,899 - src.api.order_api - INFO - Order submitted: 448d185d-cacf-4fb5-842a-76c6bd461cb5 - BTC-USDT OrderSide.SELL 2.837 @ None
+2025-10-22 20:26:30,281 - src.api.order_api - INFO - Order submitted: 4d73a08c-a35f-41e4-a480-8bb372c9afff - BTC-USDT OrderSide.BUY 4.318 @ None
+2025-10-22 20:26:31,961 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:32,348 - src.api.order_api - INFO - Order submitted: 782e3389-1389-4a0c-b797-50f4cba6c0d3 - BTC-USDT OrderSide.BUY 4.004 @ None
+2025-10-22 20:26:34,014 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:34,395 - src.api.order_api - INFO - Order submitted: ff8ab27d-8bc9-4894-8e30-e1eab6dbd23d - BTC-USDT OrderSide.SELL 1.875 @ None
+2025-10-22 20:26:36,064 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:36,445 - src.api.order_api - INFO - Order submitted: 436d562a-4924-4442-8fb0-217f2577942c - BTC-USDT OrderSide.SELL 4.853 @ 45639.27
+2025-10-22 20:26:38,095 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:38,495 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:40,146 - src.api.order_api - INFO - Order submitted: c721c501-8654-44ad-a21e-b822fab6b26b - BTC-USDT OrderSide.BUY 0.851 @ 49995.32
+2025-10-22 20:26:40,545 - src.api.order_api - INFO - Order submitted: bf2e509e-5ac7-4bf3-9f95-e4f974b5ccbd - BTC-USDT OrderSide.SELL 2.688 @ None
+2025-10-22 20:26:42,196 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:42,594 - src.api.order_api - INFO - Order submitted: c2f3fdd3-77cc-4748-ae87-936bfe57e0f5 - BTC-USDT OrderSide.BUY 2.876 @ 53043.65
+2025-10-22 20:26:44,248 - src.api.order_api - INFO - Order submitted: 994b42ea-9b2a-447c-8423-aaeb42cf98fa - BTC-USDT OrderSide.SELL 1.456 @ 52963.08
+2025-10-22 20:26:44,644 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:46,303 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:46,697 - src.api.order_api - INFO - Order submitted: 8e2d61ae-a9df-4893-98fb-6763f6977801 - BTC-USDT OrderSide.SELL 4.972 @ 47252.84
+2025-10-22 20:26:48,354 - src.api.order_api - INFO - Order submitted: efedfc53-112b-403a-ac3d-7bea6b61ce4b - BTC-USDT OrderSide.BUY 3.928 @ None
+2025-10-22 20:26:48,752 - src.api.order_api - INFO - Order submitted: b5fe1fc6-bb6f-4e55-bbc6-c9d33b887fa3 - BTC-USDT OrderSide.SELL 1.319 @ None
+2025-10-22 20:26:50,411 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:50,790 - src.api.order_api - INFO - Order submitted: 9d99eb5d-6484-4659-bc64-f95b7da64205 - BTC-USDT OrderSide.SELL 4.566 @ None
+2025-10-22 20:26:52,467 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:52,846 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:54,516 - src.api.order_api - INFO - Order submitted: 3516e507-ab5f-42c2-9e08-3898d2e60c84 - BTC-USDT OrderSide.BUY 0.755 @ None
+2025-10-22 20:26:54,900 - src.api.order_api - INFO - Order submitted: 648fe1a9-2b86-4bb7-a57a-c740f32c9314 - BTC-USDT OrderSide.BUY 4.41 @ 47839.07
+2025-10-22 20:26:56,578 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:26:56,961 - src.api.order_api - INFO - Order submitted: 2817b1e9-789c-4a64-bcdc-c7c0ba0161f2 - BTC-USDT OrderSide.SELL 1.373 @ None
+2025-10-22 20:26:58,628 - src.api.order_api - INFO - Order submitted: bf182bfa-33d2-4351-85cd-37152cbe4186 - BTC-USDT OrderSide.BUY 1.029 @ 50031.94
+2025-10-22 20:26:59,012 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:00,681 - src.api.order_api - INFO - Order submitted: bfa66dba-dd88-4938-98e1-eb29c6457508 - BTC-USDT OrderSide.SELL 3.686 @ 51087.58
+2025-10-22 20:27:01,055 - src.api.order_api - INFO - Order submitted: e4601906-9649-4e13-926a-80f5017ece00 - BTC-USDT OrderSide.BUY 0.659 @ 48986.81
+2025-10-22 20:27:02,728 - src.api.order_api - INFO - Order submitted: a2700ce3-24f3-4572-89d4-75e2330ce37b - BTC-USDT OrderSide.BUY 1.707 @ 46951.88
+2025-10-22 20:27:03,113 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:04,786 - src.api.order_api - INFO - Order submitted: 7caf6312-d327-4f1f-a1cd-85db051d8904 - BTC-USDT OrderSide.SELL 4.16 @ None
+2025-10-22 20:27:05,168 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:06,844 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:07,225 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:08,903 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:09,286 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:10,965 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:11,345 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:13,026 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:13,407 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:15,082 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:15,464 - src.api.order_api - INFO - Order submitted: e71edfb7-0cd0-408f-8021-09c8eb3e3891 - BTC-USDT OrderSide.SELL 4.715 @ 45816.85
+2025-10-22 20:27:17,132 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:17,510 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:19,184 - src.api.order_api - INFO - Order submitted: 0709dc05-6d76-4fd6-8c48-e945396a5735 - BTC-USDT OrderSide.SELL 4.558 @ 45986.71
+2025-10-22 20:27:19,550 - src.api.order_api - INFO - Order submitted: 501115db-afb3-4ac6-a776-5f99b4d7a57f - BTC-USDT OrderSide.SELL 4.579 @ None
+2025-10-22 20:27:21,240 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:21,607 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:23,301 - src.api.order_api - INFO - Order submitted: 18d0914b-ee46-4226-9f7b-94075c478c47 - BTC-USDT OrderSide.BUY 2.999 @ 53959.88
+2025-10-22 20:27:23,668 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:25,361 - src.api.order_api - INFO - Order submitted: 3ff6c6a7-5251-493b-bbd3-5080fd8b697f - BTC-USDT OrderSide.BUY 1.413 @ None
+2025-10-22 20:27:25,728 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:27,419 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:27,784 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:29,480 - src.api.order_api - INFO - Order submitted: 6de25684-5928-4236-8373-5f59228cfe05 - BTC-USDT OrderSide.BUY 2.544 @ 49352.7
+2025-10-22 20:27:29,844 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:31,538 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:31,902 - src.api.order_api - INFO - Order submitted: 6de6fd71-a0e8-49b3-bf0b-52a3dd7879bb - BTC-USDT OrderSide.BUY 4.49 @ 49695.18
+2025-10-22 20:27:33,588 - src.api.order_api - INFO - Order submitted: d63c42ce-e660-4156-b808-1a8c1a6f5041 - BTC-USDT OrderSide.SELL 4.033 @ 50338.31
+2025-10-22 20:27:33,953 - src.api.order_api - INFO - Order submitted: 7536c612-b910-4321-b9c7-5239c928692d - BTC-USDT OrderSide.BUY 0.123 @ None
+2025-10-22 20:27:35,633 - src.api.order_api - INFO - Order submitted: dcee72f7-c37b-48c4-b392-b660f179a32f - BTC-USDT OrderSide.SELL 1.597 @ 45210.73
+2025-10-22 20:27:36,001 - src.api.order_api - INFO - Order submitted: f2b4c090-c3d4-42a9-a930-fcabe9ae2110 - BTC-USDT OrderSide.BUY 2.824 @ 51437.31
+2025-10-22 20:27:37,694 - src.api.order_api - INFO - Order submitted: 560b4d6d-41ab-4ab8-b16a-75184f12b243 - BTC-USDT OrderSide.BUY 1.505 @ None
+2025-10-22 20:27:38,064 - src.api.order_api - INFO - Order submitted: 52b72485-ee58-459b-bef6-f360c035f3c4 - BTC-USDT OrderSide.SELL 3.902 @ 47490.86
+2025-10-22 20:27:39,753 - src.api.order_api - INFO - Order submitted: 42d53d31-ac1e-4710-8196-49dc52ba6e47 - BTC-USDT OrderSide.BUY 1.851 @ 54489.4
+2025-10-22 20:27:40,121 - src.api.order_api - INFO - Order submitted: a568c19e-3fdd-43e2-9daf-afe5ee12d070 - BTC-USDT OrderSide.SELL 0.627 @ 47976.15
+2025-10-22 20:27:42,157 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:44,206 - src.api.order_api - INFO - Order submitted: ead14d96-b511-4f75-937b-427192006e87 - BTC-USDT OrderSide.SELL 4.365 @ 50297.1
+2025-10-22 20:27:46,254 - src.api.order_api - INFO - Order submitted: 36fc75af-91f2-4e94-af4b-ead56829fff4 - BTC-USDT OrderSide.BUY 2.667 @ 53122.28
+2025-10-22 20:27:48,290 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:50,344 - src.api.order_api - INFO - Order submitted: c6c42922-9bab-4afb-9cb9-7352920c73a9 - BTC-USDT OrderSide.SELL 4.768 @ 46943.95
+2025-10-22 20:27:52,380 - src.api.order_api - INFO - Order submitted: dd449aaa-c406-4b94-b7d9-934fa272c28c - BTC-USDT OrderSide.SELL 0.785 @ 47506.75
+2025-10-22 20:27:54,418 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:27:56,468 - src.api.order_api - INFO - Order submitted: df68c931-398f-4817-916d-d7f5c028bfcd - BTC-USDT OrderSide.SELL 2.796 @ None
+2025-10-22 20:27:58,515 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:28:00,565 - src.api.order_api - INFO - Order submitted: 545a0ddd-45f2-4217-a7d2-9b61560dce96 - BTC-USDT OrderSide.BUY 2.093 @ None
+2025-10-22 20:28:02,635 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:28:04,687 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:28:06,745 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:28:08,799 - src.api.order_api - INFO - Order submitted: 41c62b43-7230-4762-a31d-8e57c9735fec - BTC-USDT OrderSide.SELL 4.487 @ 52574.39
+2025-10-22 20:28:10,854 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:28:12,911 - src.api.order_api - INFO - Order submitted: e18ec935-e523-4700-a437-fa2d93f2870d - BTC-USDT OrderSide.BUY 1.147 @ None
+2025-10-22 20:28:14,967 - src.api.order_api - INFO - Order submitted: 8b80c968-de51-4b9b-8c14-49d4463678f0 - BTC-USDT OrderSide.SELL 1.919 @ None
+2025-10-22 20:28:17,028 - src.api.order_api - INFO - Order submitted: 8f0286e2-34d0-4428-9081-7ffce9dfccba - BTC-USDT OrderSide.BUY 1.578 @ None
+2025-10-22 20:28:19,080 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:28:21,143 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:33:00,213 - src.api.order_api - INFO - Order submitted: dc2d25c6-224f-4475-a082-31f1b1cbf7a3 - BTC-USDT OrderSide.SELL 1.0 @ 51000.0
+2025-10-22 20:33:02,253 - src.api.order_api - INFO - Order submitted: 25bc6271-dad0-4fac-a171-b29f506655aa - BTC-USDT OrderSide.SELL 2.0 @ 52000.0
+2025-10-22 20:33:04,301 - src.api.order_api - INFO - Order submitted: c7eab9e5-dde5-4ab5-b743-9cfb4413c18c - BTC-USDT OrderSide.SELL 1.5 @ 53000.0
+2025-10-22 20:33:06,353 - src.api.order_api - INFO - Order submitted: d1d49d3c-9f06-4c5a-83ca-d52cfc3ba2e8 - BTC-USDT OrderSide.BUY 1.0 @ 49000.0
+2025-10-22 20:33:08,403 - src.api.order_api - INFO - Order submitted: b79a42ea-52af-493d-a7a2-51181b03f7a6 - BTC-USDT OrderSide.BUY 2.0 @ 48000.0
+2025-10-22 20:33:10,448 - src.api.order_api - INFO - Order submitted: 51e8e411-b3ad-4796-aa93-6f24d9f9582a - BTC-USDT OrderSide.BUY 1.5 @ 47000.0
+2025-10-22 20:33:16,583 - src.api.order_api - INFO - Order submitted: 3aa5acb9-a8c1-4f12-8787-0ea4e2925b6f - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:33:18,614 - src.api.order_api - INFO - Order submitted: 3f64aeac-8b46-47f9-b32a-0a9aa3060621 - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:33:20,630 - src.api.order_api - INFO - Order submitted: f9873f16-b3de-4b37-8f69-92407db8d252 - BTC-USDT OrderSide.BUY 1.0 @ 50000.0
+2025-10-22 20:33:22,664 - src.api.order_api - INFO - Order submitted: a2d90499-3cb4-42d3-b2c9-1704b50012ed - BTC-USDT OrderSide.BUY 0.5 @ 51000.0
+2025-10-22 20:33:26,722 - src.api.order_api - INFO - Order submitted: 782729d1-2cbe-4f94-b896-5e200efb6910 - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:33:28,768 - src.api.order_api - INFO - Order cancelled: 782729d1-2cbe-4f94-b896-5e200efb6910
+2025-10-22 20:33:31,818 - src.api.order_api - INFO - Order submitted: a9add442-7373-4eed-9f80-e318b67bd13e - BTC-USDT OrderSide.SELL 1.0 @ 54000.0
+2025-10-22 20:33:34,883 - src.api.order_api - INFO - Order submitted: d69352b9-2c28-4586-bf38-6c5612f886df - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:33:37,935 - src.api.order_api - INFO - Order submitted: a2215735-6705-49a1-87b9-270ea1c3bd8d - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:33:40,987 - src.api.order_api - INFO - Order submitted: 1088fda5-f94c-4ff4-a3e0-f8c8c7e52ae8 - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:33:54,072 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:33:56,125 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:33:58,168 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:00,219 - src.api.order_api - INFO - Order submitted: 5f600654-e1ef-4ad6-a1e6-227df1c841b9 - BTC-USDT OrderSide.SELL 2.884 @ 46038.83
+2025-10-22 20:34:02,263 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:04,311 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:06,339 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:08,388 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:10,413 - src.api.order_api - INFO - Order submitted: f1a82f79-908a-4ead-b8fb-f541605f027d - BTC-USDT OrderSide.BUY 2.408 @ 53273.83
+2025-10-22 20:34:12,448 - src.api.order_api - INFO - Order submitted: 52639b98-d0fd-40e5-b1b6-4cfdb098b501 - BTC-USDT OrderSide.BUY 4.289 @ None
+2025-10-22 20:34:14,506 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:16,545 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:18,590 - src.api.order_api - INFO - Order submitted: 0373397a-ba45-46fc-bc9b-4ece243d61f7 - BTC-USDT OrderSide.BUY 2.565 @ None
+2025-10-22 20:34:20,627 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:22,681 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:23,750 - src.api.order_api - INFO - Order submitted: cec2b5e5-5dd7-44e6-93b9-7ab57d0618a6 - BTC-USDT OrderSide.SELL 1.0 @ 51000.0
+2025-10-22 20:34:24,718 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:25,796 - src.api.order_api - INFO - Order submitted: 715464da-e858-4ff3-9622-82d11c285705 - BTC-USDT OrderSide.SELL 2.0 @ 52000.0
+2025-10-22 20:34:26,764 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:27,848 - src.api.order_api - INFO - Order submitted: 8ad72e7e-b582-42f3-a3ff-5c060fa00b08 - BTC-USDT OrderSide.SELL 1.5 @ 53000.0
+2025-10-22 20:34:28,805 - src.api.order_api - INFO - Order submitted: d44dec02-dffc-4ccd-9973-8f04aabdbbf1 - BTC-USDT OrderSide.BUY 1.434 @ None
+2025-10-22 20:34:29,902 - src.api.order_api - INFO - Order submitted: edcdbf6c-32ca-4997-b5b9-1a9ef8612a8a - BTC-USDT OrderSide.BUY 1.0 @ 49000.0
+2025-10-22 20:34:30,846 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:31,929 - src.api.order_api - INFO - Order submitted: 9ddbd70f-f94e-490a-b453-f78385cbb596 - BTC-USDT OrderSide.BUY 2.0 @ 48000.0
+2025-10-22 20:34:32,876 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:33,964 - src.api.order_api - INFO - Order submitted: 0aa487ea-bac6-4711-ad18-4e4c3315415c - BTC-USDT OrderSide.BUY 1.5 @ 47000.0
+2025-10-22 20:34:34,919 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:36,946 - src.api.order_api - INFO - Order submitted: 85473f91-f0ac-4488-9f7f-aca9fe479d12 - BTC-USDT OrderSide.SELL 3.737 @ 52794.33
+2025-10-22 20:34:38,992 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:40,105 - src.api.order_api - INFO - Order submitted: 45c9ff86-2bad-474b-9d8f-1ab1be615b9d - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:34:41,033 - src.api.order_api - INFO - Order submitted: 9ad6f125-1044-432f-a995-1e6079687942 - BTC-USDT OrderSide.BUY 0.803 @ None
+2025-10-22 20:34:42,145 - src.api.order_api - INFO - Order submitted: ee70ed4d-8a56-4f49-82f3-c4de9075814e - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:34:43,082 - src.api.order_api - INFO - Order submitted: 167e010c-1a31-46c5-8f9c-382a34dc6427 - BTC-USDT OrderSide.SELL 1.882 @ 49942.64
+2025-10-22 20:34:44,199 - src.api.order_api - INFO - Order submitted: 282d5c2b-d449-4689-8e53-78044adb6246 - BTC-USDT OrderSide.BUY 1.0 @ 50000.0
+2025-10-22 20:34:45,137 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:46,250 - src.api.order_api - INFO - Order submitted: f7438e0d-a8a3-4dde-b3ee-9f5e1e6d755f - BTC-USDT OrderSide.BUY 0.5 @ 51000.0
+2025-10-22 20:34:47,158 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:49,218 - src.api.order_api - INFO - Order submitted: 9b2df00e-b4ca-42f4-b6d0-65b3bded50c8 - BTC-USDT OrderSide.SELL 1.992 @ 50976.42
+2025-10-22 20:34:50,355 - src.api.order_api - INFO - Order submitted: db1e4f4b-67c8-4c4a-a74c-478085824948 - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:34:51,279 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:52,411 - src.api.order_api - INFO - Order cancelled: db1e4f4b-67c8-4c4a-a74c-478085824948
+2025-10-22 20:34:53,326 - src.api.order_api - INFO - Order submitted: ac283918-5a80-49a9-95d6-787fd5204a08 - BTC-USDT OrderSide.SELL 2.5 @ None
+2025-10-22 20:34:55,382 - src.api.order_api - INFO - Order submitted: 1d1cd771-936f-4c4a-9fcd-5e5a4f08d489 - BTC-USDT OrderSide.SELL 1.363 @ 47185.08
+2025-10-22 20:34:55,455 - src.api.order_api - INFO - Order submitted: 0261f3a6-1e94-4d34-a2c3-684f663376e7 - BTC-USDT OrderSide.SELL 1.0 @ 54000.0
+2025-10-22 20:34:57,413 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:34:58,511 - src.api.order_api - INFO - Order submitted: 02111c26-0e1f-4f6c-93f7-882e8b978acb - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:34:59,460 - src.api.order_api - INFO - Order submitted: 1d77eac9-e766-4d90-aaa8-678ebf91c019 - BTC-USDT OrderSide.SELL 1.809 @ None
+2025-10-22 20:35:01,497 - src.api.order_api - INFO - Order submitted: f5949dbb-026d-4faa-bf63-d4e8ea279b06 - BTC-USDT OrderSide.BUY 4.858 @ None
+2025-10-22 20:35:01,559 - src.api.order_api - INFO - Order submitted: 0f0f837f-a93c-47eb-aa05-e28fdfb00a4d - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:35:03,530 - src.api.order_api - INFO - Order submitted: 8ce15242-1276-4ee7-9255-54b19afcc6e8 - BTC-USDT OrderSide.SELL 0.192 @ 54644.15
+2025-10-22 20:35:04,613 - src.api.order_api - INFO - Order submitted: 60a9586f-69f6-40ba-a597-c5c7f44d138b - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:35:05,576 - src.api.order_api - INFO - Order submitted: abcdb505-5066-40dc-8e4c-7782601b698c - BTC-USDT OrderSide.BUY 4.76 @ 52359.73
+2025-10-22 20:35:07,613 - src.api.order_api - INFO - Order submitted: 03fb4818-995f-4bf0-b856-76990cef8e77 - BTC-USDT OrderSide.BUY 4.178 @ None
+2025-10-22 20:35:09,654 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:11,695 - src.api.order_api - INFO - Order submitted: 7fae4f9c-0ca7-426e-b133-f752c016db74 - BTC-USDT OrderSide.BUY 1.176 @ None
+2025-10-22 20:35:13,735 - src.api.order_api - INFO - Order submitted: 0845bf05-3640-4726-a01d-97de38fd2eb4 - BTC-USDT OrderSide.BUY 1.986 @ 54059.37
+2025-10-22 20:35:15,783 - src.api.order_api - INFO - Order submitted: c0def134-e71d-4725-82fc-93da1ce24576 - BTC-USDT OrderSide.BUY 2.827 @ None
+2025-10-22 20:35:17,690 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:17,829 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:19,731 - src.api.order_api - INFO - Order submitted: eb016a2e-538e-44fb-a935-99e6dcf94e86 - BTC-USDT OrderSide.BUY 2.494 @ None
+2025-10-22 20:35:19,879 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:21,790 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:21,936 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:23,828 - src.api.order_api - INFO - Order submitted: 9bb27d29-031b-4d97-9e4c-c3550f77be65 - BTC-USDT OrderSide.BUY 4.564 @ 50185.95
+2025-10-22 20:35:23,979 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:25,905 - src.api.order_api - INFO - Order submitted: 7193bacb-c3e7-402c-ac02-6190522a6a27 - BTC-USDT OrderSide.BUY 2.409 @ 54663.5
+2025-10-22 20:35:26,027 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:27,956 - src.api.order_api - INFO - Order submitted: 5a151800-de39-40f7-8529-8f7855676d1a - BTC-USDT OrderSide.BUY 0.683 @ 49741.74
+2025-10-22 20:35:28,075 - src.api.order_api - INFO - Order submitted: aebb10f3-4bda-446d-90a2-346187ee98b0 - BTC-USDT OrderSide.SELL 0.624 @ None
+2025-10-22 20:35:30,010 - src.api.order_api - INFO - Order submitted: 3b6f5b97-1dba-411c-ae2f-f9a9a4bbb309 - BTC-USDT OrderSide.BUY 0.679 @ 51220.9
+2025-10-22 20:35:30,138 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:32,062 - src.api.order_api - INFO - Order submitted: 75058a33-255e-4fbf-ab33-3506a6701a88 - BTC-USDT OrderSide.SELL 1.628 @ 53753.82
+2025-10-22 20:35:32,176 - src.api.order_api - INFO - Order submitted: c6a848a2-e1c0-466b-93de-921ef25395d9 - BTC-USDT OrderSide.BUY 1.193 @ None
+2025-10-22 20:35:34,094 - src.api.order_api - INFO - Order submitted: 0db1f94e-0173-4574-9e8d-2679b4a50453 - BTC-USDT OrderSide.SELL 4.573 @ None
+2025-10-22 20:35:34,209 - src.api.order_api - INFO - Order submitted: d21b5f53-2dc0-4301-879c-cfcb84a982a1 - BTC-USDT OrderSide.BUY 0.863 @ None
+2025-10-22 20:35:36,143 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:36,247 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:38,176 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:38,279 - src.api.order_api - INFO - Order submitted: 51a9288b-5ded-4889-83c0-579febcce248 - BTC-USDT OrderSide.BUY 0.393 @ None
+2025-10-22 20:35:40,216 - src.api.order_api - INFO - Order submitted: 8a124388-22d0-40c7-8444-7176b5abd7e6 - BTC-USDT OrderSide.SELL 2.926 @ None
+2025-10-22 20:35:40,316 - src.api.order_api - INFO - Order submitted: 68e899a4-e73e-4f6f-976f-cfbedc959a94 - BTC-USDT OrderSide.BUY 2.803 @ None
+2025-10-22 20:35:42,278 - src.api.order_api - INFO - Order submitted: 5f15d1eb-9c0b-4327-9ee7-a579c22ec286 - BTC-USDT OrderSide.BUY 2.145 @ 45440.01
+2025-10-22 20:35:42,348 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:44,332 - src.api.order_api - INFO - Order submitted: c9da3000-3d64-474e-b1ea-c6240b761ff8 - BTC-USDT OrderSide.BUY 4.286 @ 52923.34
+2025-10-22 20:35:44,395 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:46,390 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:46,447 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:48,439 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:48,511 - src.api.order_api - INFO - Order submitted: 4b99b900-1465-4658-b402-3072721e29fb - BTC-USDT OrderSide.BUY 1.736 @ 53725.34
+2025-10-22 20:35:50,494 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:50,564 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:52,543 - src.api.order_api - INFO - Order submitted: 5a70bc4f-6965-481e-aae1-99b8442ba745 - BTC-USDT OrderSide.BUY 0.675 @ 46134.73
+2025-10-22 20:35:52,619 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:54,612 - src.api.order_api - INFO - Order submitted: 29c5d11b-5d85-4890-98b3-657c8f073835 - BTC-USDT OrderSide.SELL 3.714 @ None
+2025-10-22 20:35:54,675 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:56,661 - src.api.order_api - INFO - Order submitted: a21e7e96-00d8-45cf-9283-600dfbaf39ac - BTC-USDT OrderSide.BUY 4.926 @ None
+2025-10-22 20:35:56,722 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:35:58,713 - src.api.order_api - INFO - Order submitted: 88ad5620-96d9-4cb3-9307-210aa4b78622 - BTC-USDT OrderSide.BUY 3.857 @ None
+2025-10-22 20:35:58,778 - src.api.order_api - INFO - Order submitted: 64240ca3-aafe-41f6-a457-3dc634c494f4 - BTC-USDT OrderSide.BUY 3.953 @ None
+2025-10-22 20:36:00,775 - src.api.order_api - INFO - Order submitted: eba3c6de-7af7-47e2-8f63-b8b0ed7b700a - BTC-USDT OrderSide.SELL 1.888 @ 52503.4
+2025-10-22 20:36:00,840 - src.api.order_api - INFO - Order submitted: 3c9b5ec7-2342-49e1-a61d-b12fb94a1313 - BTC-USDT OrderSide.SELL 2.7 @ None
+2025-10-22 20:36:02,839 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:02,897 - src.api.order_api - INFO - Order submitted: 3d770e78-fb26-439c-bb92-d3aab007d253 - BTC-USDT OrderSide.SELL 3.975 @ 45522.52
+2025-10-22 20:36:04,895 - src.api.order_api - INFO - Order submitted: a7a6dcda-90ec-4bab-b1dd-582866af7270 - BTC-USDT OrderSide.BUY 2.586 @ None
+2025-10-22 20:36:04,955 - src.api.order_api - INFO - Order submitted: 6189b110-9405-4806-b769-94bccb958824 - BTC-USDT OrderSide.SELL 2.382 @ None
+2025-10-22 20:36:06,958 - src.api.order_api - INFO - Order submitted: b3cb7e72-f85c-4561-81f4-12d6680ebd3b - BTC-USDT OrderSide.BUY 0.84 @ 49607.33
+2025-10-22 20:36:07,014 - src.api.order_api - INFO - Order submitted: e520e389-7b9f-4712-9620-51b6e9e1c3e6 - BTC-USDT OrderSide.SELL 0.991 @ 52811.99
+2025-10-22 20:36:09,012 - src.api.order_api - INFO - Order submitted: 98c17623-5c7c-431e-8d0c-149685382e0c - BTC-USDT OrderSide.BUY 4.11 @ 46143.01
+2025-10-22 20:36:09,082 - src.api.order_api - INFO - Order submitted: 65913c95-8139-4083-8415-ecdd1a5b3f58 - BTC-USDT OrderSide.BUY 0.22 @ 48076.27
+2025-10-22 20:36:11,074 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:11,144 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:13,141 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:13,211 - src.api.order_api - INFO - Order submitted: dfa785e9-1ee4-4e7e-bfb7-2fc28b34a9ef - BTC-USDT OrderSide.SELL 3.352 @ 49991.49
+2025-10-22 20:36:15,201 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:15,262 - src.api.order_api - INFO - Order submitted: 6b40f77d-c114-4d9f-b44e-859e966b1675 - BTC-USDT OrderSide.SELL 2.695 @ 54989.17
+2025-10-22 20:36:17,261 - src.api.order_api - INFO - Order submitted: a7708cd4-7479-445b-b0a4-043fb4ce9ddb - BTC-USDT OrderSide.BUY 2.813 @ 50424.86
+2025-10-22 20:36:17,307 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:19,320 - src.api.order_api - INFO - Order submitted: a431bf33-9b79-4984-ad7f-f82b87999113 - BTC-USDT OrderSide.BUY 0.484 @ None
+2025-10-22 20:36:19,351 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:21,377 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:21,407 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:23,442 - src.api.order_api - INFO - Order submitted: 4a6d9703-a71a-4641-bae1-8bd495825cc0 - BTC-USDT OrderSide.BUY 3.081 @ 52496.85
+2025-10-22 20:36:23,456 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:25,492 - src.api.order_api - INFO - Order submitted: 6afa1671-ea48-49d3-9668-947682c456c5 - BTC-USDT OrderSide.BUY 4.262 @ None
+2025-10-22 20:36:25,509 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:27,565 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:27,565 - src.api.order_api - INFO - Order submitted: fbe4aad8-3180-4fed-8b67-ab6ebe0c6120 - BTC-USDT OrderSide.BUY 3.312 @ 54568.64
+2025-10-22 20:36:29,623 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:29,623 - src.api.order_api - INFO - Order submitted: 6b728bba-2032-40a3-978d-2f3e22d228cb - BTC-USDT OrderSide.SELL 4.859 @ None
+2025-10-22 20:36:31,687 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:31,696 - src.api.order_api - INFO - Order submitted: bce73273-fc0d-4e0e-b31a-d5cea5948b99 - BTC-USDT OrderSide.BUY 0.356 @ 49491.18
+2025-10-22 20:36:33,739 - src.api.order_api - INFO - Order submitted: 63d1405b-9342-4280-ab50-d626636156ec - BTC-USDT OrderSide.BUY 2.009 @ 53008.93
+2025-10-22 20:36:33,750 - src.api.order_api - INFO - Order submitted: 751e3b4b-be99-4308-abf0-4ed5fa38b030 - BTC-USDT OrderSide.BUY 0.216 @ None
+2025-10-22 20:36:35,814 - src.api.order_api - INFO - Order submitted: 2d347ef6-323e-40f9-a469-ba93b7ab6a19 - BTC-USDT OrderSide.BUY 2.075 @ None
+2025-10-22 20:36:35,814 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:37,866 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:37,866 - src.api.order_api - INFO - Order submitted: b798829c-95bf-4901-83d8-54e4151c6fb7 - BTC-USDT OrderSide.BUY 4.701 @ 50372.02
+2025-10-22 20:36:39,931 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:39,941 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:41,990 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:42,001 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:44,059 - src.api.order_api - INFO - Order submitted: 74e9f2b9-f611-4c28-98a0-86e76887cfd6 - BTC-USDT OrderSide.SELL 4.122 @ None
+2025-10-22 20:36:44,070 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:46,121 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:46,133 - src.api.order_api - INFO - Order submitted: fb26d32d-aaf3-4316-8a6d-dc841706ec97 - BTC-USDT OrderSide.BUY 3.079 @ 49434.81
+2025-10-22 20:36:48,194 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:48,194 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:50,251 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:50,251 - src.api.order_api - INFO - Order submitted: 56a299e7-8b4b-444c-a46a-c69ed6315b8b - BTC-USDT OrderSide.SELL 2.495 @ 52427.82
+2025-10-22 20:36:52,322 - src.api.order_api - INFO - Order submitted: d4f5c746-cbfb-4857-bc17-c1bf9aca9bea - BTC-USDT OrderSide.SELL 3.543 @ None
+2025-10-22 20:36:52,322 - src.api.order_api - INFO - Order submitted: 39dcbef8-0b46-42d3-bd81-a695cd55d5f8 - BTC-USDT OrderSide.BUY 2.008 @ None
+2025-10-22 20:36:54,385 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:54,394 - src.api.order_api - INFO - Order submitted: 747fc12e-e546-4c06-98d4-30920bc1fca0 - BTC-USDT OrderSide.SELL 2.18 @ 46285.08
+2025-10-22 20:36:56,453 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:56,453 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:58,520 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:36:58,520 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:00,573 - src.api.order_api - INFO - Order submitted: f32cb082-d962-4338-9fac-e9a3a6012419 - BTC-USDT OrderSide.BUY 0.633 @ 49878.41
+2025-10-22 20:37:00,573 - src.api.order_api - INFO - Order submitted: b70aca51-268b-4d14-ad19-e621520e935d - BTC-USDT OrderSide.SELL 4.811 @ 49036.08
+2025-10-22 20:37:02,627 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:02,627 - src.api.order_api - INFO - Order submitted: 48832072-65b5-4226-875f-728c15593d0b - BTC-USDT OrderSide.SELL 3.959 @ None
+2025-10-22 20:37:04,663 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:04,673 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:06,720 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:06,720 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:08,767 - src.api.order_api - INFO - Order submitted: 304841db-62db-4ae1-b96a-35cee1b7445e - BTC-USDT OrderSide.BUY 3.59 @ None
+2025-10-22 20:37:08,776 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:10,822 - src.api.order_api - INFO - Order submitted: 2617e2ca-3ae6-4581-9aed-bba265bc83e5 - BTC-USDT OrderSide.SELL 3.69 @ 48785.09
+2025-10-22 20:37:10,826 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:12,867 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:12,876 - src.api.order_api - INFO - Order submitted: c86da919-588b-45b9-b8d7-1bdba3177a43 - BTC-USDT OrderSide.BUY 2.825 @ None
+2025-10-22 20:37:14,919 - src.api.order_api - INFO - Order submitted: caf0e00a-f31a-4775-8074-b92ed6051878 - BTC-USDT OrderSide.BUY 1.351 @ 50210.14
+2025-10-22 20:37:14,928 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:16,981 - src.api.order_api - INFO - Order submitted: a87b3a5f-6368-40e1-a435-d0a04f8c7b0c - BTC-USDT OrderSide.SELL 4.328 @ 53820.73
+2025-10-22 20:37:16,981 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:19,031 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:21,063 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:23,096 - src.api.order_api - INFO - Order submitted: 3785f98d-32dc-4639-bc06-0258cf0664bb - BTC-USDT OrderSide.BUY 2.402 @ None
+2025-10-22 20:37:25,135 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:27,192 - src.api.order_api - INFO - Order submitted: 2a340e6d-6851-4f0e-8da5-fdd8ce83b569 - BTC-USDT OrderSide.BUY 3.599 @ 51364.95
+2025-10-22 20:37:29,230 - src.api.order_api - INFO - Order submitted: fe29894c-5bf2-424a-930d-57f3b03f1b4f - BTC-USDT OrderSide.BUY 2.468 @ None
+2025-10-22 20:37:31,287 - src.api.order_api - INFO - Order submitted: cd247857-3a55-4e5f-b41c-f1cea2161844 - BTC-USDT OrderSide.SELL 4.735 @ None
+2025-10-22 20:37:33,324 - src.api.order_api - INFO - Order submitted: 2668cce3-0c79-4817-b3f7-8315bc444912 - BTC-USDT OrderSide.BUY 3.938 @ None
+2025-10-22 20:37:35,368 - src.api.order_api - INFO - Order submitted: 301d4005-bd95-4ef4-8e12-047dabaeedad - BTC-USDT OrderSide.SELL 3.585 @ 48531.36
+2025-10-22 20:37:37,434 - src.api.order_api - INFO - Order submitted: 1aa02a2d-9f95-4d68-911b-a32feae8098b - BTC-USDT OrderSide.SELL 2.482 @ 54983.06
+2025-10-22 20:37:39,488 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:41,536 - src.api.order_api - INFO - Order submitted: cf02e013-c001-40e9-9ae0-f598469df382 - BTC-USDT OrderSide.BUY 3.79 @ 47623.29
+2025-10-22 20:37:43,603 - src.api.order_api - INFO - Order submitted: 5f1cead0-8d26-447c-bf72-f1388e03de04 - BTC-USDT OrderSide.BUY 2.162 @ None
+2025-10-22 20:37:45,648 - src.api.order_api - INFO - Order submitted: 6d02b3da-5643-41b8-985b-acf22323fe2e - BTC-USDT OrderSide.SELL 2.923 @ None
+2025-10-22 20:37:47,679 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:49,718 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:51,763 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:53,810 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:37:55,840 - src.api.order_api - INFO - Order submitted: e73f1475-a895-41cd-9223-931085143c1e - BTC-USDT OrderSide.BUY 0.152 @ None
+2025-10-22 20:37:57,895 - src.api.order_api - INFO - Order submitted: 421ff4f0-47be-4031-b248-6da0a33354bd - BTC-USDT OrderSide.SELL 2.01 @ 46062.02
+2025-10-22 20:37:59,934 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:01,992 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:04,061 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:06,121 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:08,183 - src.api.order_api - INFO - Order submitted: af08216d-2d5a-4a11-845c-5ad172b3dfd9 - BTC-USDT OrderSide.BUY 3.176 @ 46162.95
+2025-10-22 20:38:10,230 - src.api.order_api - INFO - Order submitted: 7cce60e8-c4b4-473d-9f1b-e3f047c0a72c - BTC-USDT OrderSide.BUY 0.453 @ 49932.37
+2025-10-22 20:38:12,287 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:14,344 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:16,398 - src.api.order_api - INFO - Order submitted: 0fe0df1b-de0c-4e82-8dc6-f1308c37c748 - BTC-USDT OrderSide.SELL 4.108 @ 50830.17
+2025-10-22 20:38:18,438 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:20,494 - src.api.order_api - INFO - Order submitted: b16121d5-2681-42bf-a00a-b84bd63f49ac - BTC-USDT OrderSide.BUY 3.343 @ None
+2025-10-22 20:38:22,553 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:24,588 - src.api.order_api - INFO - Order submitted: 36a96e0b-a4a5-4ee2-bbd7-3155f23f53df - BTC-USDT OrderSide.BUY 1.428 @ None
+2025-10-22 20:38:26,683 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:28,728 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:30,759 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:32,790 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:34,831 - src.api.order_api - INFO - Order submitted: 9133851a-1445-41b5-97cb-586daa7c5d4f - BTC-USDT OrderSide.BUY 2.129 @ 53745.23
+2025-10-22 20:38:36,872 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:38:38,913 - src.api.order_api - INFO - Order submitted: e6861f73-a868-4429-8746-a992e06be74e - BTC-USDT OrderSide.BUY 0.562 @ None
+2025-10-22 20:38:40,938 - src.api.order_api - INFO - Order submitted: 3066b2d6-f09a-4fe0-ae14-c3679a77096e - BTC-USDT OrderSide.SELL 0.792 @ None
+2025-10-22 20:42:21,034 - src.api.order_api - INFO - Order submitted: 033b2831-c92f-43fe-887a-999cb2dceb43 - BTC-USDT OrderSide.SELL 1.0 @ 51000.0
+2025-10-22 20:42:23,074 - src.api.order_api - INFO - Order submitted: b9941c2b-312b-4b19-8688-24d5f477042d - BTC-USDT OrderSide.SELL 2.0 @ 52000.0
+2025-10-22 20:42:25,102 - src.api.order_api - INFO - Order submitted: 8b4bc097-cf3f-48a8-87a3-32a6c0238e6b - BTC-USDT OrderSide.SELL 1.5 @ 53000.0
+2025-10-22 20:42:27,160 - src.api.order_api - INFO - Order submitted: f043ef7f-a6e8-4a5a-ac0f-22d1cb2ecc83 - BTC-USDT OrderSide.BUY 1.0 @ 49000.0
+2025-10-22 20:42:29,212 - src.api.order_api - INFO - Order submitted: c0e3491f-1e1e-4965-96d7-051363971ce0 - BTC-USDT OrderSide.BUY 2.0 @ 48000.0
+2025-10-22 20:42:31,267 - src.api.order_api - INFO - Order submitted: 31d6ce0e-f217-46f8-b180-d69db9491c49 - BTC-USDT OrderSide.BUY 1.5 @ 47000.0
+2025-10-22 20:42:37,418 - src.api.order_api - INFO - Order submitted: 34b5ea3d-2b32-4394-bf8f-42ddd3e84003 - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:42:39,459 - src.api.order_api - INFO - Order submitted: b207a967-f122-4a41-a04a-0534b30950be - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:42:41,507 - src.api.order_api - INFO - Order submitted: 60c193da-0839-4454-b618-512e8bd55606 - BTC-USDT OrderSide.BUY 1.0 @ 50000.0
+2025-10-22 20:42:43,571 - src.api.order_api - INFO - Order submitted: 9de7cf33-36de-4acb-a128-3d52276c3853 - BTC-USDT OrderSide.BUY 0.5 @ 51000.0
+2025-10-22 20:42:47,667 - src.api.order_api - INFO - Order submitted: e606548b-dc28-4e62-99e1-bd2220dfba95 - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:42:49,742 - src.api.order_api - INFO - Order cancelled: e606548b-dc28-4e62-99e1-bd2220dfba95
+2025-10-22 20:42:52,835 - src.api.order_api - INFO - Order submitted: ba3ffad9-2ba9-4532-92fb-be9a9a1f0bce - BTC-USDT OrderSide.SELL 1.0 @ 54000.0
+2025-10-22 20:42:55,877 - src.api.order_api - INFO - Order submitted: 6eb27e9e-89c8-492e-a64f-45bfa505912d - BTC-USDT OrderSide.BUY 1.0 @ 46000.0
+2025-10-22 20:42:58,921 - src.api.order_api - INFO - Order submitted: 05a5d1be-66ce-495b-8510-b10cd45a954c - BTC-USDT OrderSide.BUY 0.5 @ None
+2025-10-22 20:43:01,970 - src.api.order_api - INFO - Order submitted: 4f67a896-e6b2-4edc-9740-ad375d6284f1 - BTC-USDT OrderSide.SELL 0.3 @ None
+2025-10-22 20:43:15,047 - src.api.order_api - INFO - Order submitted: abcd04e6-4524-450e-958b-705a46183bb7 - BTC-USDT OrderSide.BUY 2.028 @ None
+2025-10-22 20:43:17,118 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:19,172 - src.api.order_api - INFO - Order submitted: 180d95fe-f1a5-4bd8-af94-a12269de9dc4 - BTC-USDT OrderSide.SELL 4.654 @ None
+2025-10-22 20:43:21,183 - src.api.order_api - INFO - Order submitted: adad084d-5daa-4171-bbb7-b246327d4454 - BTC-USDT OrderSide.SELL 4.808 @ None
+2025-10-22 20:43:23,231 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:25,282 - src.api.order_api - INFO - Order submitted: 7e81fdd9-a77d-4121-9954-837e32a2f3ce - BTC-USDT OrderSide.SELL 2.472 @ None
+2025-10-22 20:43:27,342 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:29,429 - src.api.order_api - INFO - Order submitted: 7e68a46a-f518-461f-875d-e8379057d5a8 - BTC-USDT OrderSide.BUY 3.258 @ None
+2025-10-22 20:43:31,470 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:33,511 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:35,584 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:37,661 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:39,723 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:41,761 - src.api.order_api - INFO - Order submitted: 3de80565-d388-414e-98bf-e4750dd32a36 - BTC-USDT OrderSide.BUY 4.946 @ None
+2025-10-22 20:43:43,864 - src.api.order_api - INFO - Order submitted: 826bbc9b-83ca-465f-8287-87a44ac4c548 - BTC-USDT OrderSide.SELL 2.558 @ 47541.8
+2025-10-22 20:43:45,945 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:47,970 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:43:49,997 - src.api.order_api - INFO - Order submitted: 869cdc93-385c-46fb-a1c5-8ad86570e9ee - BTC-USDT OrderSide.SELL 4.517 @ None
+2025-10-22 20:43:52,111 - src.api.order_api - INFO - Order submitted: fca56a34-30ee-447d-84f3-4b19baa66560 - BTC-USDT OrderSide.SELL 2.69 @ None
+2025-10-22 20:43:54,155 - src.api.order_api - INFO - Order submitted: f3cb2c37-c474-4548-8725-0e02b2a6d1e8 - BTC-USDT OrderSide.SELL 2.716 @ 54879.12
+2025-10-22 20:43:56,194 - src.api.order_api - INFO - Order submitted: 668b9177-8e90-419a-8c55-6b6061446aa0 - BTC-USDT OrderSide.SELL 0.257 @ None
+2025-10-22 20:43:58,233 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:00,296 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:02,350 - src.api.order_api - INFO - Order submitted: c8e00afe-01ba-404b-b0a4-05cc18800782 - BTC-USDT OrderSide.BUY 1.545 @ None
+2025-10-22 20:44:04,403 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:06,457 - src.api.order_api - INFO - Order submitted: 3f97bdb3-e482-458b-a665-577d21d35f7b - BTC-USDT OrderSide.BUY 2.702 @ 51671.46
+2025-10-22 20:44:08,496 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:10,546 - src.api.order_api - INFO - Order submitted: 10db62da-73c7-4211-ae66-8067798a0e3f - BTC-USDT OrderSide.BUY 1.149 @ None
+2025-10-22 20:44:12,579 - src.api.order_api - INFO - Order submitted: ce82a287-309c-42e7-9202-6ec2c1851483 - BTC-USDT OrderSide.BUY 1.3 @ None
+2025-10-22 20:44:14,647 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:16,709 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:18,736 - src.api.order_api - INFO - Order submitted: 5296b02e-08e9-4367-b0b1-87e09376f07f - BTC-USDT OrderSide.BUY 4.069 @ 45531.8
+2025-10-22 20:44:20,764 - src.api.order_api - INFO - Order submitted: 768f3256-2d9d-4d18-a681-da48528e5a4c - BTC-USDT OrderSide.BUY 3.0 @ None
+2025-10-22 20:44:22,795 - src.api.order_api - INFO - Order submitted: 364ebf62-13ec-4963-91d2-b303f3cc5cee - BTC-USDT OrderSide.BUY 1.787 @ 48137.24
+2025-10-22 20:44:24,858 - src.api.order_api - INFO - Order submitted: d1a5eb17-b2cd-4a36-be75-b0b698403ca4 - BTC-USDT OrderSide.SELL 1.959 @ 53744.73
+2025-10-22 20:44:26,903 - src.api.order_api - INFO - Order submitted: 510884d0-3fae-48f4-b640-f97b014ba453 - BTC-USDT OrderSide.SELL 4.731 @ 48343.16
+2025-10-22 20:44:28,950 - src.api.order_api - INFO - Order submitted: 5be2582f-c381-4510-9de1-1bfe1c6f5950 - BTC-USDT OrderSide.SELL 0.838 @ 46849.24
+2025-10-22 20:44:30,986 - src.api.order_api - INFO - Order submitted: e4c5755e-7a34-44a4-b326-99185252a33e - BTC-USDT OrderSide.SELL 3.656 @ None
+2025-10-22 20:44:33,046 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:35,090 - src.api.order_api - INFO - Order submitted: 87255745-3120-4c4b-b75c-3643cc2e9f34 - BTC-USDT OrderSide.SELL 1.747 @ 47497.01
+2025-10-22 20:44:37,133 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:39,198 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:41,243 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:43,304 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:45,354 - src.api.order_api - INFO - Order submitted: 49358f75-66b5-49e6-a551-458d022440db - BTC-USDT OrderSide.BUY 3.439 @ 53568.81
+2025-10-22 20:44:47,418 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:49,469 - src.api.order_api - INFO - Order submitted: 2e8e5bb1-4509-45ab-9a8a-6b0c89b951e2 - BTC-USDT OrderSide.BUY 2.882 @ 50995.42
+2025-10-22 20:44:51,499 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:53,561 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:55,591 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:44:57,642 - src.api.order_api - INFO - Order submitted: dcb5ca10-0c4a-4c36-a97b-a9341508c21c - BTC-USDT OrderSide.BUY 3.44 @ None
+2025-10-22 20:44:59,702 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:01,997 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:04,072 - src.api.order_api - INFO - Order submitted: 04120748-1d51-42cd-a0fa-e0766d7784e9 - BTC-USDT OrderSide.BUY 3.728 @ 53830.55
+2025-10-22 20:45:06,119 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:08,155 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:10,231 - src.api.order_api - INFO - Order submitted: fbb7d8b5-4855-4992-a27a-b06644a5854e - BTC-USDT OrderSide.SELL 1.454 @ 50368.15
+2025-10-22 20:45:12,319 - src.api.order_api - INFO - Order submitted: ea4b143f-911d-4528-ad53-ea441d745476 - BTC-USDT OrderSide.SELL 3.279 @ None
+2025-10-22 20:45:14,360 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:16,406 - src.api.order_api - INFO - Order submitted: e6703ed1-322e-414e-a227-8aa8fe07e653 - BTC-USDT OrderSide.SELL 1.968 @ None
+2025-10-22 20:45:18,448 - src.api.order_api - INFO - Order submitted: bffddae4-39bc-4188-98e3-d26726c619e2 - BTC-USDT OrderSide.BUY 0.564 @ None
+2025-10-22 20:45:20,485 - src.api.order_api - INFO - Order submitted: e5ab442e-754e-48df-96bc-ccc90ec5a225 - BTC-USDT OrderSide.SELL 1.587 @ None
+2025-10-22 20:45:22,559 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:24,608 - src.api.order_api - INFO - Order submitted: c36ca706-67a9-47dd-bef3-4f8fed80c81f - BTC-USDT OrderSide.SELL 0.274 @ None
+2025-10-22 20:45:26,672 - src.api.order_api - INFO - Order submitted: a12ddd69-6632-46f7-958c-e0872f4bce03 - BTC-USDT OrderSide.BUY 1.569 @ 45753.11
+2025-10-22 20:45:28,727 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:30,760 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:32,803 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:34,851 - src.api.order_api - INFO - Order submitted: 084f8b38-7f13-468c-a790-1595cac6e795 - BTC-USDT OrderSide.SELL 1.014 @ 50758.45
+2025-10-22 20:45:36,902 - src.api.order_api - INFO - Order submitted: 39820d9e-1d43-4261-b68e-9e495886b25b - BTC-USDT OrderSide.BUY 0.398 @ None
+2025-10-22 20:45:38,938 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:40,962 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:43,011 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:45,044 - src.api.order_api - INFO - Order submitted: fa609453-cea2-4a3d-b3bb-827f8ecfca07 - BTC-USDT OrderSide.SELL 2.579 @ 52376.77
+2025-10-22 20:45:47,078 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:49,125 - src.api.order_api - INFO - Order submitted: 079cb910-1e24-4e2d-afdb-081dae1cc149 - BTC-USDT OrderSide.BUY 0.314 @ 52352.95
+2025-10-22 20:45:51,159 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:53,213 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:55,246 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:45:57,295 - src.api.order_api - INFO - Order submitted: f4b0471d-2bf4-4524-8f3e-35e70ad43734 - BTC-USDT OrderSide.BUY 0.136 @ None
+2025-10-22 20:45:59,325 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:01,361 - src.api.order_api - INFO - Order submitted: e518f225-6f6b-4f0e-afac-a11f04d2bdfe - BTC-USDT OrderSide.BUY 1.11 @ 46869.74
+2025-10-22 20:46:03,406 - src.api.order_api - INFO - Order submitted: 9e6e42e4-a776-4654-b2bd-e2258fb88bc8 - BTC-USDT OrderSide.SELL 3.581 @ None
+2025-10-22 20:46:05,449 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:07,504 - src.api.order_api - INFO - Order submitted: a0c31a1d-b100-4d55-82f4-45872a0349ab - BTC-USDT OrderSide.BUY 2.732 @ 45591.35
+2025-10-22 20:46:09,555 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:11,595 - src.api.order_api - ERROR - Error submitting order: '<=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:13,623 - src.api.order_api - INFO - Order submitted: 323b653e-f1d2-4c73-bcd5-192823c3992e - BTC-USDT OrderSide.BUY 2.181 @ None
+2025-10-22 20:46:15,667 - src.api.order_api - INFO - Order submitted: 68f89b74-eff5-4ef3-b197-5e867499e61f - BTC-USDT OrderSide.SELL 2.173 @ None
+2025-10-22 20:46:17,697 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:19,736 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:21,785 - src.api.order_api - INFO - Order submitted: d373fb17-d846-43d9-81c0-ede60c1dfa01 - BTC-USDT OrderSide.BUY 0.57 @ 48729.28
+2025-10-22 20:46:23,822 - src.api.order_api - INFO - Order submitted: d19225db-6f61-4faa-958e-70fff13b71fc - BTC-USDT OrderSide.BUY 2.192 @ None
+2025-10-22 20:46:25,883 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:27,932 - src.api.order_api - INFO - Order submitted: 89f41223-cda1-4c26-b53d-2e3066268b8a - BTC-USDT OrderSide.BUY 4.939 @ None
+2025-10-22 20:46:29,978 - src.api.order_api - INFO - Order submitted: 044fa7b9-6bb5-42a0-b232-175ac43fa78d - BTC-USDT OrderSide.SELL 3.814 @ 53189.87
+2025-10-22 20:46:32,009 - src.api.order_api - ERROR - Error submitting order: '>=' not supported between instances of 'NoneType' and 'decimal.Decimal'
+2025-10-22 20:46:34,031 - src.api.order_api - INFO - Order submitted: c5caef4d-d8ed-42b6-98c7-8b3732d19de4 - BTC-USDT OrderSide.SELL 3.737 @ None
+2025-10-22 20:46:36,069 - src.api.order_api - INFO - Order submitted: 9a1a8ed6-45fe-4957-868c-7ec905569617 - BTC-USDT OrderSide.BUY 0.474 @ None
+2025-10-22 20:46:38,106 - src.api.order_api - INFO - Order submitted: 02b7d1e1-82e1-4e1b-95f7-c1545ed78468 - BTC-USDT OrderSide.SELL 2.678 @ None
