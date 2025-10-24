@@ -1,0 +1,186 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Install Dependencies",
+            "type": "shell",
+            "command": "pip",
+            "args": [
+                "install",
+                "-r",
+                "requirements.txt"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Start Server",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "main.py"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": [],
+            "isBackground": true,
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        },
+        {
+            "label": "Start Server with Uvicorn",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "-m",
+                "uvicorn",
+                "main:app",
+                "--host",
+                "0.0.0.0",
+                "--port",
+                "8000",
+                "--reload"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": [],
+            "isBackground": true
+        },
+        {
+            "label": "Run Demo Client",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "test_client.py"
+            ],
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Tests",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "-m",
+                "pytest",
+                "tests/",
+                "-v"
+            ],
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Run Performance Tests",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "-m",
+                "pytest",
+                "tests/benchmark/",
+                "-v",
+                "--benchmark-only"
+            ],
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Run All Tests",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "run_tests.py"
+            ],
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Start with Startup Script",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "start.py"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Check Health",
+            "type": "shell",
+            "command": "curl",
+            "args": [
+                "http://localhost:8000/health"
+            ],
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "View API Docs",
+            "type": "shell",
+            "command": "start",
+            "args": [
+                "http://localhost:8000/docs"
+            ],
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

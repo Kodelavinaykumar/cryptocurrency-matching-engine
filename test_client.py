@@ -19,7 +19,7 @@ class MatchingEngineClient:
         self.ws_market_data = None
         self.ws_trades = None
     
-    async def submit_order(self, symbol: str, side: str, order_type: str, quantity: str, price: str = None, user_id: str = None):
+    async def submit_order(self, symbol: str, side: str, order_type: str, quantity: str, price: str = None, user_id: str = None): # type: ignore
         """Submit an order to the matching engine."""
         url = f"{self.base_url}/api/v1/orders"
         data = {
@@ -79,7 +79,7 @@ class MatchingEngineClient:
             await self.connect_market_data(symbol)
         
         try:
-            async for message in self.ws_market_data:
+            async for message in self.ws_market_data: # type: ignore
                 data = json.loads(message)
                 print(f"Market Data Update: {json.dumps(data, indent=2)}")
         except websockets.exceptions.ConnectionClosed:
@@ -91,7 +91,7 @@ class MatchingEngineClient:
             await self.connect_trades(symbol)
         
         try:
-            async for message in self.ws_trades:
+            async for message in self.ws_trades: # type: ignore
                 data = json.loads(message)
                 print(f"Trade Execution: {json.dumps(data, indent=2)}")
         except websockets.exceptions.ConnectionClosed:
