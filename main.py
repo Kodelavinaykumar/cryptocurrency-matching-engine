@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-GoQuant Matching Engine - Main Application Entry Point
-High-performance cryptocurrency matching engine with REG NMS compliance.
-"""
-
 import asyncio
 import logging
 from contextlib import asynccontextmanager
